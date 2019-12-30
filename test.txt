@@ -7,3 +7,5 @@ trigger webhook
 new-sonar PR analysis testing
 
 with jenkins PR teshdbwhbd  nt
+
+new sonar-jenkins-integration
